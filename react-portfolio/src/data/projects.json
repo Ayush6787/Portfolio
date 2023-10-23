@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Quote-Generator",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to generate different quotes which can be used to made tweets on twitter.",
+      "skills": ["Html", "Css", "Javascript", "Rest-API"],
+      "demo": "https://ayush6787.github.io/Quote-generator/",
+      "source": "https://github.com/Ayush6787/Quote-generator"
+    },
+    {
+      "title": "Paint-Clone",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made with an intent of making clone of windows paint using simple frontend technologies. ",
+      "skills": ["Html", "Css", "Javascript"],
+      "demo": "https://ayush6787.github.io/Paint-clone/",
+      "source": "https://github.com/Ayush6787/Paint-clone"
+    },
+    {
+      "title": "Sound control using python",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made by using python libraries such as opencv, mediapipe to control the volume using hand gestures.",
+      "skills": ["Python", "Opencv", "Mediapipe","Computer-Vision"],
+      "demo": "https://github.com/Ayush6787/Sound-Control-using-Python",
+      "source": "https://github.com/Ayush6787/Sound-Control-using-Python"
+    },
+    {
+        "title": "Snake Game",
+        "imageSrc": "projects/project.png",
+        "description": "This is a project made by using python libraries such as opencv, mediapipe to control the volume using hand gestures.",
+        "skills": ["Python", "Opencv", "Mediapipe","Computer-Vision"],
+        "demo": "https://ayush6787.github.io/Snake-Game/",
+        "source": "https://github.com/Ayush6787/Snake-Game"
+      }
+  ]
+  
